@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1602699129 source:c:\users\matheus henrique\documents\cg\trabalho\main.cpp
+	<iostream>
+	<stdlib.h>
+	<gl/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<math.h>
+	"CarregarArquivo.h"
+
+1601671525 c:\users\matheus henrique\documents\cg\trabalho\carregararquivo.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<string>
+
